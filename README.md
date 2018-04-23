@@ -12,6 +12,13 @@ http://build.phonegap.com/
 
 
 
+pastikan hp android udah terpasang dari playstore, aplikasi : quick printer 
+
+https://play.google.com/store/apps/details?id=pe.diegoveloper.printerserverapp
+
+
+
+
 
 
 
